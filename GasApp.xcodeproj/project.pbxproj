@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0EEE6DAC251A452300107203 /* Group 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EEE6DAB251A452300107203 /* Group 1.png */; };
+		0EFCFEFF251A53C200175909 /* Group 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EFCFEFE251A53C200175909 /* Group 1.png */; };
 		65F82E5D251A38C100AB94CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F82E5C251A38C100AB94CF /* AppDelegate.swift */; };
 		65F82E5F251A38C100AB94CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F82E5E251A38C100AB94CF /* ViewController.swift */; };
 		65F82E62251A38C100AB94CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65F82E60251A38C100AB94CF /* Main.storyboard */; };
@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0EEE6DAB251A452300107203 /* Group 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Group 1.png"; path = "../../../../Downloads/iPhone 11 Pro 3/Group 1.png"; sourceTree = "<group>"; };
+		0EFCFEFE251A53C200175909 /* Group 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group 1.png"; sourceTree = "<group>"; };
 		65F82E59251A38C100AB94CF /* GasApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GasApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F82E5C251A38C100AB94CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65F82E5E251A38C100AB94CF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,12 +99,12 @@
 		65F82E5B251A38C100AB94CF /* GasApp */ = {
 			isa = PBXGroup;
 			children = (
+				0EFCFEFE251A53C200175909 /* Group 1.png */,
 				65F82E5C251A38C100AB94CF /* AppDelegate.swift */,
 				65F82E5E251A38C100AB94CF /* ViewController.swift */,
 				65F82E60251A38C100AB94CF /* Main.storyboard */,
 				65F82E63251A38C100AB94CF /* Assets.xcassets */,
 				65F82E65251A38C100AB94CF /* LaunchScreen.storyboard */,
-				0EEE6DAB251A452300107203 /* Group 1.png */,
 				65F82E68251A38C100AB94CF /* Info.plist */,
 			);
 			path = GasApp;
@@ -235,7 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0EEE6DAC251A452300107203 /* Group 1.png in Resources */,
+				0EFCFEFF251A53C200175909 /* Group 1.png in Resources */,
 				65F82E67251A38C100AB94CF /* LaunchScreen.storyboard in Resources */,
 				65F82E64251A38C100AB94CF /* Assets.xcassets in Resources */,
 				65F82E62251A38C100AB94CF /* Main.storyboard in Resources */,
